@@ -1,0 +1,23 @@
+.title {
+    font-size: 60px;
+    background-color: #7fff00;
+
+    
+}
+
+.resize {
+    width: auto;
+    height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.para {
+  background-color: #7fff00;
+}
+
